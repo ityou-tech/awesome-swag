@@ -78,7 +78,3 @@ A curated list of awesome swag items for events and conferences.
 - Certification Vouchers
 - Skillbuilder Subscriptions
 - Coffee Cards for Events
-
-## License
-
-This project is licensed under the MIT License.
