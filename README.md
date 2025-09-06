@@ -78,3 +78,12 @@ A curated list of awesome swag items for events and conferences.
 - Certification Vouchers
 - Skillbuilder Subscriptions
 - Coffee Cards for Events
+
+### Brand Your Community
+- Pins
+- 3D Prints
+- Patches
+- LED Logo Sign for User Groups
+
+### Motivational (For UG Leaders Only)
+- Annual Trophy or UG Leader Recognition
